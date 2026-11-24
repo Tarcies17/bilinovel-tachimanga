@@ -1,4 +1,4 @@
-# bilinovel-tachimanga
+# novel-tachimanga
 
 Tachimanga 扩展仓库：哔哩轻小说（extensions-lib 1.4）。
 

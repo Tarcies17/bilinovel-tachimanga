@@ -12,8 +12,8 @@
         "name": "Tachiyomi: BiliNovel",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bilinovel",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.bilinovel-v1.4.2.apk",
-          "iconUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.bilinovel.png"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/apk/tachiyomi-zh.bilinovel-v1.4.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/icon/eu.kanade.tachiyomi.extension.zh.bilinovel.png"
         },
         "extensionLib": "1.4",
         "versionCode": 2,
@@ -31,6 +31,55 @@
             "name": "哔哩轻小说（APP）",
             "language": "zh",
             "homeUrl": "https://www.bilinovel.net"
+          }
+        ]
+      },
+      {
+        "name": "Tachiyomi: Hikarinagi",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.hikarinagi",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/apk/tachiyomi-zh.hikarinagi-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/icon/eu.kanade.tachiyomi.extension.zh.hikarinagi.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 1,
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3266193817034354049",
+            "name": "Hikarinagi",
+            "language": "zh",
+            "homeUrl": "https://www.hikarinagi.org",
+            "mirrorUrls": [
+              "https://www.hikarinagi.org"
+            ]
+          },
+          {
+            "id": "1148300780955902112",
+            "name": "Hikarinagi Novel",
+            "language": "zh",
+            "homeUrl": "https://www.hikarinagi.org"
+          }
+        ]
+      },
+      {
+        "name": "Tachiyomi: FantasyNovel",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.huanmengacg",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/apk/tachiyomi-zh.huanmengacg-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/icon/eu.kanade.tachiyomi.extension.zh.huanmengacg.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 1,
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2861182842757929551",
+            "name": "幻梦轻小说",
+            "language": "zh",
+            "homeUrl": "https://www.huanmengacg.com"
           }
         ]
       }

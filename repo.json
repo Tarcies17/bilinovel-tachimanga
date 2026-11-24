@@ -1,0 +1,10 @@
+{
+  "index_v2": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/index.pb",
+  "meta": {
+    "name": "BiliNovel",
+    "shortName": "BiliNovel",
+    "badgeLabel": "BL",
+    "website": "https://github.com/Tarcies17/bilinovel-tachimanga",
+    "signingKeyFingerprint": "c126ac26a20b619f5117f77311f878e64ed10f94706eb26a97e81140a5a2a30e"
+  }
+}

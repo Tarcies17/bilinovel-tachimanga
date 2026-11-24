@@ -1,0 +1,39 @@
+{
+  "name": "BiliNovel",
+  "badgeLabel": "BL",
+  "signingKey": "c126ac26a20b619f5117f77311f878e64ed10f94706eb26a97e81140a5a2a30e",
+  "contact": {
+    "website": "https://github.com/Tarcies17/bilinovel-tachimanga",
+    "discord": null
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Tachiyomi: BiliNovel",
+        "packageName": "eu.kanade.tachiyomi.extension.zh.bilinovel",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.bilinovel-v1.4.2.apk",
+          "iconUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.bilinovel.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": 2,
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6832494364245687154",
+            "name": "哔哩轻小说",
+            "language": "zh",
+            "homeUrl": "https://www.bilinovel.com"
+          },
+          {
+            "id": "6275431490399941640",
+            "name": "哔哩轻小说（APP）",
+            "language": "zh",
+            "homeUrl": "https://www.bilinovel.net"
+          }
+        ]
+      }
+    ]
+  }
+}

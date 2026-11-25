@@ -1,7 +1,7 @@
 {
-  "index_v2": "https://cdn.jsdelivr.net/gh/Tarcies17/bilinovel-tachimanga@main/index.pb",
+  "index_v2": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/index.pb",
   "meta": {
-    "name": "BiliNovel",
+    "name": "BiliNovel (slim)",
     "shortName": "BiliNovel",
     "badgeLabel": "BL",
     "website": "https://github.com/Tarcies17/bilinovel-tachimanga",

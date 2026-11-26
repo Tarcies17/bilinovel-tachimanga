@@ -12,12 +12,12 @@
         "name": "Tachiyomi: BiliNovel",
         "packageName": "eu.kanade.tachiyomi.extension.zh.bilinovel",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.bilinovel-v1.4.4-slim.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.bilinovel-v1.4.6-slim.apk",
           "iconUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.bilinovel.png"
         },
         "extensionLib": "1.4",
-        "versionCode": 4,
-        "versionName": "1.4.4",
+        "versionCode": 6,
+        "versionName": "1.4.6",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -38,13 +38,13 @@
         "name": "Tachiyomi: Hikarinagi",
         "packageName": "eu.kanade.tachiyomi.extension.zh.hikarinagi",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.hikarinagi-v1.4.3-slim.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.hikarinagi-v1.4.5-slim.apk",
           "iconUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.hikarinagi.png"
         },
         "extensionLib": "1.4",
-        "versionCode": 3,
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_MIXED",
+        "versionCode": 5,
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "3266193817034354049",
@@ -64,12 +64,12 @@
         "name": "Tachiyomi: FantasyNovel",
         "packageName": "eu.kanade.tachiyomi.extension.zh.huanmengacg",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.huanmengacg-v1.4.3-slim.apk",
+          "apkUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/apk/tachiyomi-zh.huanmengacg-v1.4.5-slim.apk",
           "iconUrl": "https://raw.githubusercontent.com/Tarcies17/bilinovel-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.huanmengacg.png"
         },
         "extensionLib": "1.4",
-        "versionCode": 3,
-        "versionName": "1.4.3",
+        "versionCode": 5,
+        "versionName": "1.4.5",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
